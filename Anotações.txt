@@ -1,0 +1,8 @@
+Git init:
+cria repositório .git
+
+Git pull:
+puxa o repositório remoto
+
+Git push:
+envia os arquivos para o repositório remoto
